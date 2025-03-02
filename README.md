@@ -1,5 +1,5 @@
-## Hi there 👋
-
+Code. Eat. Sleep.
+### Repeat.
 <!--
 **xSxDxDx/xSxDxDx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
